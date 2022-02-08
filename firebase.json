@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "smilerecipes",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
